@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Food
+  - Point
+  - Paper3
+  - Paper2
+  - Paper1
+  - Button
+  - Paper4
+  - Paper5
+  - Paper6
+  - Mob
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Paper
+  - Gun
+  - Weapon Stand
+  - Mob
+  - Core
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - DrumStick
+  - Food1
+  - Food2
+  - Food3
+  - A
+  - B
+  - C
+  - D
+  - 11
+  - 22
+  - 33
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
